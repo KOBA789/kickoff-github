@@ -13,5 +13,8 @@
   "author": "KOBA789",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "ff1ceac5cd905d1951fb79ef8b8eec0e8549ccb9"
+  "gitHead": "ff1ceac5cd905d1951fb79ef8b8eec0e8549ccb9",
+  "dependencies": {
+    "request": "~2.16.2"
+  }
 }
